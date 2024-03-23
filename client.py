@@ -1,5 +1,3 @@
-import comm
-
 import network.common as comn
 from socket import *
 from threading import Thread
